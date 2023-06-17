@@ -1,0 +1,84 @@
+/*menu section*/
+.navbar{
+	background:#9017A9;
+	
+}
+.navbar-nav .nav-item .nav-link{
+	color:#fff;
+}
+.navbar-nav .nav-item .nav-link:hover .active{
+	color:white;
+	background:red!important;
+	border-radius:10px!important;
+}
+
+.wave{
+  width: 100%;
+  background:#9017A9;
+}
+/*hero section section*/
+#hero{
+	background:#9017A9;
+	height:auto;
+}
+
+
+/*about section*/
+#about{
+	padding-top:
+}
+#about img{
+	border-radius:20px;
+}
+
+/*menu section*/
+
+
+/*Testimonial section*/
+.Testimonial{
+	width:70px;
+	height:70px;
+	border-radius:50%;
+}
+.fa-chevron-right,.fa-angle-left {
+	font-size: 25px;
+	color: black;
+}
+
+.blockquote-footer {
+  display: inline-block;
+}
+
+
+.socialLink{
+	border: 1px solid #fff;
+	border-radius: 50%;
+	width: 30px;
+	height: 30px;
+	padding: 10px;
+	display: flex;
+	text-align: center;
+	justify-content: center;
+	align-items: center;
+	text-decoration:none;
+}
+.socialLink2{
+	border: 1px solid #000;
+	border-radius: 50%;
+	width: 30px;
+	height: 30px;
+	padding: 10px;
+	display: flex;
+	text-align: center;
+	justify-content: center;
+	align-items: center;
+	text-decoration:none;
+}
+
+
+
+
+
+
+
+
